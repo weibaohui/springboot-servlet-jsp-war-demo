@@ -88,3 +88,8 @@ spring.mvc.view.suffix=.jsp
 ```
 
 
+
+#4、运行方法
+右键入口文件直接运行
+bootRun
+执行gradle build，java -jar xxx.war
